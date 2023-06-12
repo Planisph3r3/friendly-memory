@@ -1,0 +1,1 @@
+The main purpose of this repository is for aknowling how scripting is done through shell/bash using basics commands.
